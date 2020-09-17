@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color: #c8d1a0;">
+
+<h1>Fitts Law Study: Before Sleep VS Just Woke up </h1>
+<h2>Assignment 3</h2>
+
+<h3>Authors: Gaojian Song</h3>
+
+
+<h3> Summary: </h3>
+<p> For this Fitts Law Study, I tested 2 people before their sleep time, and when they just woke up to 
+    see the different, on a simple mouse task.
+    I tested three users before their sleep time, and when they just woke up to check the ablity of move a mouse and click
+    different objects of varying widths and amplitudes. Each test subject did 8 sessions of
+    25 clicks. The users first did the task before their sleep time and then when they just woke up.
+    Then compared the throughput grand mean for each condition.
+    
+
+
+<h3> Charts: </h3>
+
+<img src="6c9f8d3ee8416a7d23cbf2af2cedd951.png" alt="Study Results">
+    the LIFT is when user just woke up, Right one is before users' sleep time.
+This study found that users are faster and more
+    accurate when they just woke up
+
+</body>
+</html>
